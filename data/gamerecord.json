@@ -1,0 +1,23 @@
+{
+    "games": [{
+        "startingCash": 1000,
+        "hit": false,
+        "amounts": [
+            20,
+            20,
+            5,
+            5,
+            5
+        ],
+        "roll": 35,
+        "bets": [
+            20,
+            21,
+            0,
+            1,
+            2
+        ],
+        "endingCash": 945
+    }],
+    "finalCash": 885
+}
